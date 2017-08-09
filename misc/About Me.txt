@@ -1,5 +1,6 @@
 [About Me]
-My name is Ramon Dioneda. I like developing software, singing/playing music, reading fantasy novels, and collecting shoes.
+My name is Ramon Dioneda. I have experience in mobile and web development and I aspire to create simple, yet powerful software that everyone has a use for.
+When I'm not coding I love to sing and play music, read books of all types, and collect cool shoes.
 
 [Title/Education]
 Software Development Intern at TheTalkList
@@ -33,7 +34,3 @@ you ate at.
 Highly Skilled in: C/C++, Java, Photoshop, Microsoft Office
 Proficient in: HTML/CSS, Verilog, Matlab, Python, git, GitHub, bash
 
-Sites:
-https://schlosser.io/
-https://echeung.me/
-https://georgel.ee/

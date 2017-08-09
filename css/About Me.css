@@ -1,22 +1,31 @@
-
+*{margin: 0;}
 h1,h2,h3 {
     font-family: 'Merriweather', sans-serif;
     color: #033649;
     margin-left: 5%;
-    background-color:white;
+    margin-bottom: 10px;
 }
 
 p,ul.info {
     font-family: 'Open Sans', sans-serif;
     color: #036564;
     margin-left: 5%;
-    background-color:white;
+    margin-bottom: 10px;
+}
+#name {
+    padding-bottom: 100vh;
+    padding-top:35vh;
+    text-align: center;
+}
+#education, #experience, #projects {
+    margin-bottom: 100vh;
 }
 
 body,html {
     height:100%;
-    margin: 0;
+    margin: 0px;
     padding: 0;
+    background-color:slateblue;
 }
 #right {
     margin-left: 15%;
