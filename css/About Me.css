@@ -13,6 +13,17 @@ div.infotron {
 
 }
 
+#projectImg {
+    border: 3px solid white;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.mediabox {
+    margin-top: 20vh;
+}
+
 .media-body {
     color: #dddddd;
     font-family: 'Open Sans', sans-serif;
@@ -37,6 +48,10 @@ h1.font-weight-bold {
     font-family: 'Merriweather', serif;
 }
 
+h2.font-weight-bold {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .underline {
     height: 4px;
     width: 100px;
@@ -51,7 +66,7 @@ h1.font-weight-bold {
     background-size: cover;
     background-position: center center;
     color: #fff;
-    height: 100vh;
+    height: 120vh;
     width: 100%;
     margin-top: 0px;
 }
