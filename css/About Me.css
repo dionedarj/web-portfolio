@@ -5,7 +5,7 @@ div.infotron {
 }
 
 
-#headImg { 
+#headImg {
     border: 3px solid #bcccdc;
     height: 300px;
     width: 300px;
@@ -88,8 +88,14 @@ h2.font-weight-bold {
     border-color: white;
     color: white;
 }
+
+#doc {
+    border-color: white;
+    color: white;
+}
+
 #scroll:hover {
     border-color: #96bccc;
     background-color: #96bccc;
-    
+
 }
