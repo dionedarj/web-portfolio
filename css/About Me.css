@@ -2,6 +2,7 @@ div.infotron {
     background-color: #3e3e3e;
     margin: 0px;
     border-radius: 0px;
+    color: white;
 }
 
 
@@ -21,7 +22,8 @@ div.infotron {
 }
 
 .mediabox {
-    margin-top: 20vh;
+    margin-top: 10vh;
+    margin-bottom: 0vh;
 }
 
 .media-body {
@@ -34,9 +36,6 @@ div.infotron {
     position: fixed;
 }
 
-div.text-center {
-    margin-top: 30vh;
-}
 
 .sectionheader {
     display: inline;
@@ -51,13 +50,6 @@ h1.font-weight-bold {
 h2.font-weight-bold {
     font-family: 'Open Sans', sans-serif;
 }
-
-.underline {
-    height: 4px;
-    width: 100px;
-    background: #bcccdc;
-}
-
 
 
 #project {
@@ -84,12 +76,14 @@ h2.font-weight-bold {
 }
 
 #scroll {
-    margin-top: 30vh;
     border-color: white;
     color: white;
 }
 
-
+#doc1, #doc2,  #github1, #github2, #resume {
+    border-color: white;
+    color: white;
+}
 
 #scroll:hover {
     border-color: #96bccc;
